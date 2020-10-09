@@ -1,5 +1,6 @@
-# Electron Screen Recorder
+# Screen Recorder By Moinul
 
-Build a screen recorder with Electron from scratch. 
+Build a screen recorder with Electron from scratch.
+Here is my first try to create a Screen recorder by node.
 
-Watch the [Electron 8 Tutorial](https://youtu.be/3yqDxhR2XxE) on YouTube. 
+For More Information [S. M. Moinul Islam](https://facebook.com/Moin.me). 
